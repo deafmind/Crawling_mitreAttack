@@ -1,0 +1,10 @@
+[project]
+name = "crawling-mitreattack"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.2.3",
+    "requests-html>=0.10.0",
+]
